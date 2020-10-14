@@ -1,0 +1,14 @@
+{
+  "author": "Ben Mills",
+  "platforms": {
+    "macos": {
+      "files": [
+        {
+          "source": "vimbundles/rust",
+          "target": "$HOME/.vimbundles/rust",
+          "operation": "symlink"
+        }
+      ]
+    }
+  }
+}
